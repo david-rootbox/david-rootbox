@@ -24,9 +24,9 @@ Los comentarios como este no aparecen en la vista del perfil.
 <!-- 02 · PRESENTACIÓN: edita el texto y el bloque Python con tus datos. -->
 ## 🎯 Sobre mí
 
-Soy **David Ponce**, Ingeniero Civil Informático de la **Universidad de Valparaíso**, Chile 🇨🇱. Mi enfoque principal es la **seguridad ofensiva**, el **pentesting** y mi desarrollo hacia **Red Team**.
+Soy **David Ponce**, Ingeniero Civil Informático de la **Universidad de Valparaíso**, Chile 🇨🇱. Mi enfoque principal es la **seguridad ofensiva**..
 
-Actualmente sigo aprendiendo y orientando mi formación hacia **Red Team**. Conocer los **vectores de ataque** y entender cómo se explotan las vulnerabilidades me está ayudando a comprender mucho mejor el **área defensiva de la ciberseguridad**. Por eso complemento mi práctica ofensiva con **Blue Team y SOC**, relacionando los ataques con su detección, el análisis de registros y la respuesta a incidentes.
+Conocer los **vectores de ataque** y entender cómo se explotan las vulnerabilidades me está ayudando a comprender mucho mejor el **área defensiva de la ciberseguridad**. Por eso complemento mi práctica ofensiva con **Blue Team y SOC**, relacionando los ataques con su detección, el análisis de registros y la respuesta a incidentes.
 
 Me gusta trabajar con Linux, automatizar tareas y documentar lo que aprendo en laboratorios y proyectos.
 
