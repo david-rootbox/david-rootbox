@@ -13,8 +13,8 @@ Los comentarios como este no aparecen en la vista del perfil.
   </a>
 
   <p>
-    <img src="https://img.shields.io/badge/Foco-Red_Team-F75C7E?style=for-the-badge" alt="Foco: Red Team" />
-    <img src="https://img.shields.io/badge/Aprendiendo-Blue_Team_%26_SOC-38BDF8?style=for-the-badge" alt="Aprendiendo: Blue Team y SOC" />
+    <img src="https://img.shields.io/badge/Main-Red_Team-F75C7E?style=for-the-badge" alt="Main: Red Team" />
+    <img src="https://img.shields.io/badge/Learning-Blue_Team_%26_SOC-38BDF8?style=for-the-badge" alt="learning: Blue Team y SOC" />
   </p>
 
 </div>
