@@ -108,7 +108,7 @@ Mi experiencia con desarrollo full stack me ayuda a entender cómo se construyen
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI_%C2%B7_en_aprendizaje-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/FastAPI_%C2%B7-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
 </p>
 
 ### 🗄️ Bases de datos
