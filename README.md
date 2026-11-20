@@ -104,11 +104,11 @@ Mi experiencia con desarrollo full stack me ayuda a entender cómo se construyen
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI_%C2%B7_en_aprendizaje-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI · en aprendizaje" />
+  <img src="https://img.shields.io/badge/FastAPI_%C2%B7_en_aprendizaje-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
 </p>
 
 ### 🗄️ Bases de datos
