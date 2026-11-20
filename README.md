@@ -26,7 +26,9 @@ Los comentarios como este no aparecen en la vista del perfil.
 
 Soy **David Ponce**, Ingeniero Civil Informático de la **Universidad de Valparaíso**, Chile 🇨🇱. Mi enfoque principal es la **seguridad ofensiva**, el **pentesting** y mi desarrollo hacia **Red Team**.
 
-Complemento ese camino aprendiendo **Blue Team y operaciones de SOC**: entender los registros, investigar alertas y relacionar el comportamiento de un ataque con su detección. Me gusta trabajar con Linux, automatizar tareas y documentar lo que aprendo en laboratorios y proyectos.
+Actualmente sigo aprendiendo y orientando mi formación hacia **Red Team**. Conocer los **vectores de ataque** y entender cómo se explotan las vulnerabilidades me está ayudando a comprender mucho mejor el **área defensiva de la ciberseguridad**. Por eso complemento mi práctica ofensiva con **Blue Team y SOC**, relacionando los ataques con su detección, el análisis de registros y la respuesta a incidentes.
+
+Me gusta trabajar con Linux, automatizar tareas y documentar lo que aprendo en laboratorios y proyectos.
 
 ```python
 class DavidPonce:
@@ -60,21 +62,24 @@ class DavidPonce:
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
 </p>
 
-### 🔐 Pentesting y reconocimiento
+### 🔐 Pentesting
+
+Herramientas de referencia en mi ruta de pentesting web, infraestructura y Active Directory.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Caido-7C3AED?style=for-the-badge" alt="Caido" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&amp;logo=metasploit&amp;logoColor=white" alt="Metasploit" />
   <img src="https://img.shields.io/badge/Nmap-2C5AA0?style=for-the-badge" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Nuclei-00B8D9?style=for-the-badge" alt="Nuclei" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge" alt="OWASP ZAP" />
-  <img src="https://img.shields.io/badge/ffuf-111827?style=for-the-badge" alt="ffuf" />
+  <img src="https://img.shields.io/badge/Nessus-00A5B5?style=for-the-badge" alt="Nessus" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/SQLmap-CC2927?style=for-the-badge" alt="SQLmap" />
+  <img src="https://img.shields.io/badge/Hashcat-663399?style=for-the-badge" alt="Hashcat" />
+  <img src="https://img.shields.io/badge/BloodHound-B91C1C?style=for-the-badge" alt="BloodHound" />
 </p>
 
 ### 🌐 Redes, sistemas y entorno
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&amp;logo=archlinux&amp;logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux" />
@@ -82,15 +87,41 @@ class DavidPonce:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
 </p>
 
-### 🧩 Desarrollo web
+## 🧩 Desarrollo web
 
-Mi experiencia con desarrollo full stack me ayuda a entender cómo se construyen las aplicaciones que analizo.
+Mi experiencia con desarrollo full stack me ayuda a entender cómo se construyen las aplicaciones y APIs, reconocer sus posibles vectores de ataque y comprender cómo protegerlas.
+
+### 🎨 Frontend
 
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" alt="CSS3" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
+</p>
+
+Para ampliar mi backend con Python, incorporo **FastAPI** a mi ruta de aprendizaje para desarrollar APIs.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI_%C2%B7_en_aprendizaje-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI · en aprendizaje" />
+</p>
+
+### 🗄️ Bases de datos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/ChromaDB-EAB308?style=for-the-badge" alt="ChromaDB" />
 </p>
 
 <br />
