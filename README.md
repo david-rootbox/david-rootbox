@@ -104,7 +104,7 @@ Mi experiencia con desarrollo full stack me ayuda a entender cómo se construyen
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Django" />
 </p>
 
 <p align="center">
