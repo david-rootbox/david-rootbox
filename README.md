@@ -104,11 +104,8 @@ Mi experiencia con desarrollo full stack me ayuda a entender cómo se construyen
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
 </p>
-
-Para ampliar mi backend con Python, incorporo **FastAPI** a mi ruta de aprendizaje para desarrollar APIs.
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI_%C2%B7_en_aprendizaje-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI · en aprendizaje" />
