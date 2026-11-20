@@ -9,7 +9,7 @@ Los comentarios como este no aparecen en la vista del perfil.
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=190&amp;section=header&amp;text=David%20Ponce&amp;fontSize=42&amp;fontAlignY=30&amp;desc=Red%20Team%20%7C%20Offensive%20Security%20%7C%20Blue%20Team%20y%20SOC&amp;descSize=16&amp;descAlignY=52&amp;animation=twinkling" width="100%" alt="David Ponce · Red Team, Offensive Security, Blue Team y SOC" />
 
   <a href="https://github.com/david-rootbox">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=00F7F7&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Hola%2C+soy+David+Ponce;Camino+al+Red+Team;Pentesting+web+%26+APIs;Aprendiendo+Blue+Team+%26+SOC;Linux%2C+Python+%26+Bash" width="100%" alt="Hola, soy David Ponce. Camino al Red Team; pentesting web y APIs; aprendiendo Blue Team y SOC; Linux, Python y Bash." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=00F7F7&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Hola%2C+soy+David+Ponce;Camino+al+Red+Team;Pentesting+web+%26+APIs;Aprendiendo+Blue+Team+%26+SOC;Linux%2C+Python+%26+Bash" width="100%" alt="Hola, soy David Ponce. Hacker Ético; pentesting web y APIs; Blue Team y SOC; Linux, Python y Bash." />
   </a>
 
   <p>
